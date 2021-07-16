@@ -18,7 +18,7 @@ Para executar os testes da `Exemplo 2` siga as seguintes instruções:
 
  Acesse o diretório do projeto:
  
-`cd curso-php-phpunit/Exemplo2`
+`cd Exemplo2`
 
  Instale as dependências:
  
